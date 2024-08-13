@@ -1,6 +1,6 @@
 # Automation-scripts
 
-# Query data from expected_values.csv, We can also use multiple csv files and modify test_script.sh to use for loop to iterate over all the csv files or can also use 
+# Query data from get_pet_id_expected_values.csv, We can also use multiple csv files and modify test_script.sh to use for loop to iterate over all the csv files or can also use 
 # arguments for csv file input. For this example I have used cwd for csv file path.
 # The test_script.sh filr takes input csv file which has petstore data with 5 columns id, category, name, tags, status with 10 rows of data and extract
 # unique id in column 1 of each rown and query web api using this unique id and and compare the results from response with the data in csv.
