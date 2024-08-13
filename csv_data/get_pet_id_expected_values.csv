@@ -1,0 +1,11 @@
+id,category,name,tags,status
+1,Cats,test,itc,test
+2,Cats,Cat 2,tag2,available
+3,Cats,Cat 3,tag3,pending
+4,Dogs,Dog 1,tag1,available
+7,Lions,Lion 1,tag1,available
+8,Lions,Lion 2,tag2,available
+9,Dogs,doggie,xyz,available
+11,Dogs,Dog Prijo,abc,available
+12,Cats,Pet-12,itc,available
+13,Cats,Pet-13,itc,available
